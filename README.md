@@ -1,4 +1,6 @@
+## HEX-RL
 This code accompanies the paper [Inherently Explainable Reinforcement Learning in Natural Language](https://arxiv.org/abs/2112.08907).
+
 ### :thinking: Explainable RL
 
 ```ruby
